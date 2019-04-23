@@ -1,0 +1,49 @@
+=================
+Correction de la question Ex1_Q2
+Construction cible check_tribulle: OK
+Note 1/1
+Running suite(s): Tri
+100%: Checks: 5, Failures: 0, Errors: 0
+check_tribulle.c:28:P:Tri Bulle:test_tri:0: Passed
+check_tribulle.c:57:P:Tri Bulle:test_tri2:0: Passed
+check_tribulle.c:57:P:Tri Bulle:test_tri2:0: Passed
+check_tribulle.c:57:P:Tri Bulle:test_tri2:0: Passed
+check_tribulle.c:57:P:Tri Bulle:test_tri2:0: Passed
+Note 15/15
+=================
+=================
+Correction de la question Ex1_Q3
+Construction cible check_tribulleameliore: OK
+Note 1/1
+Running suite(s): Tri
+100%: Checks: 5, Failures: 0, Errors: 0
+check_tribulleameliore.c:28:P:Tri Bulle Ameliore:test_tri:0: Passed
+check_tribulleameliore.c:57:P:Tri Bulle Ameliore:test_tri2:0: Passed
+check_tribulleameliore.c:57:P:Tri Bulle Ameliore:test_tri2:0: Passed
+check_tribulleameliore.c:57:P:Tri Bulle Ameliore:test_tri2:0: Passed
+check_tribulleameliore.c:57:P:Tri Bulle Ameliore:test_tri2:0: Passed
+Note 15/15
+=================
+=================
+Correction de la question Ex2_Q2
+Construction cible check_trirapide: OK
+Note 1/1
+Running suite(s): Tri
+100%: Checks: 11, Failures: 0, Errors: 0
+check_trirapide.c:66:P:Tri Rapide:test_partitionner_segv:0: Passed
+check_trirapide.c:96:P:Tri Rapide:test_partitionner:0: Passed
+check_trirapide.c:96:P:Tri Rapide:test_partitionner:0: Passed
+check_trirapide.c:30:P:Tri Rapide:test_tri_segv:0: Passed
+check_trirapide.c:60:P:Tri Rapide:test_tri:0: Passed
+check_trirapide.c:60:P:Tri Rapide:test_tri:0: Passed
+check_trirapide.c:60:P:Tri Rapide:test_tri:0: Passed
+check_trirapide.c:60:P:Tri Rapide:test_tri:0: Passed
+check_trirapide.c:108:P:Tri Rapide:test_triameliore_segv:0: Passed
+check_trirapide.c:138:P:Tri Rapide:test_triameliore:0: Passed
+check_trirapide.c:138:P:Tri Rapide:test_triameliore:0: Passed
+Note 22/22
+=================
+*********************
+Note finale: 55/55
+Note finale /20: 20/20
+*********************

@@ -1,0 +1,127 @@
+=================
+Correction de la question 1-2
+Evaluer files csvl.c
+Fichier csvl.c trouve.
+Note 1/1
+Construction cible check_compte_mots: OK
+Note 1/1
+Running suite(s): Compte mots
+100%: Checks: 7, Failures: 0, Errors: 0
+check_compte_mots.c:28:P:Compte mots:test_compte_mots_segv:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+Note 7/7
+=================
+=================
+Correction de la question Exercice
+=================
+=================
+Correction de la question 2
+=================
+=================
+Correction de la question 7
+Construction cible check_compte_mots_chaine: OK
+Note 1/1
+Running suite(s): Compte mots
+100%: Checks: 5, Failures: 0, Errors: 0
+check_compte_mots_chaine.c:28:P:Compte mots:test_compte_mots_segv:0: Passed
+check_compte_mots_chaine.c:50:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots_chaine.c:50:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots_chaine.c:50:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots_chaine.c:50:P:Compte mots:test_compte_mots:0: Passed
+Note 7/7
+=================
+=================
+Correction de la question 8
+Construction cible check_decompose_chaine: OK
+Note 1/1
+Running suite(s): Decompose chaine
+100%: Checks: 7, Failures: 0, Errors: 0
+check_decompose_chaine.c:28:P:Decompose chaine:test_decompose_chaine_segv:0: Passed
+check_decompose_chaine.c:53:P:Decompose chaine:test_decompose_chaine:0: Passed
+check_decompose_chaine.c:53:P:Decompose chaine:test_decompose_chaine:0: Passed
+check_decompose_chaine.c:53:P:Decompose chaine:test_decompose_chaine:0: Passed
+check_decompose_chaine.c:53:P:Decompose chaine:test_decompose_chaine:0: Passed
+check_decompose_chaine.c:53:P:Decompose chaine:test_decompose_chaine:0: Passed
+check_decompose_chaine.c:53:P:Decompose chaine:test_decompose_chaine:0: Passed
+Note 7/7
+=================
+=================
+Correction de la question 9
+Evaluer files test_csvl.c
+Fichier test_csvl.c trouve.
+Note 1/1
+Construction cible test_csvl: OK
+Note 2/2
+=================
+=================
+Correction de la question 10
+Construction cible check_compose_chaine: OK
+Note 1/1
+Running suite(s): compose chaine
+100%: Checks: 7, Failures: 0, Errors: 0
+check_compose_chaine.c:28:P:compose chaine:test_compose_chaine_segv:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+Note 7/7
+=================
+=================
+Correction de la question 1
+Evaluer files csvl.c
+Fichier csvl.c trouve.
+Note 1/1
+Construction cible check_compte_mots: OK
+Note 1/1
+Running suite(s): Compte mots
+100%: Checks: 7, Failures: 0, Errors: 0
+check_compte_mots.c:28:P:Compte mots:test_compte_mots_segv:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+check_compte_mots.c:67:P:Compte mots:test_compte_mots:0: Passed
+Note 7/7
+Construction cible check_compose_chaine: OK
+Note 1/1
+Running suite(s): compose chaine
+100%: Checks: 7, Failures: 0, Errors: 0
+check_compose_chaine.c:28:P:compose chaine:test_compose_chaine_segv:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+check_compose_chaine.c:63:P:compose chaine:test_compose_chaine:0: Passed
+Note 7/7
+Construction cible check_reduit: OK
+Note 1/1
+Running suite(s): reduction
+100%: Checks: 7, Failures: 0, Errors: 0
+check_reduit.c:28:P:reduction:test_reduit_segv:0: Passed
+check_reduit.c:46:P:reduction:test_reduit_segv2:0: Passed
+check_reduit.c:90:P:reduction:test_reduit:0: Passed
+check_reduit.c:90:P:reduction:test_reduit:0: Passed
+check_reduit.c:90:P:reduction:test_reduit:0: Passed
+check_reduit.c:90:P:reduction:test_reduit:0: Passed
+check_reduit.c:90:P:reduction:test_reduit:0: Passed
+Note 7/7
+=================
+=================
+Correction de la question Exercice
+=================
+=================
+Correction de la question 3
+=================
+*********************
+Note finale: 61/61
+Note finale /20: 20/20
+*********************
